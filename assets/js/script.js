@@ -195,21 +195,6 @@ if(window.location.pathname == '/index.html' || window.location.pathname == '/ma
     $(droplink).click(function(){
       $('#navmeni #dropdownul').slideToggle('slow');
     });
-    if($(window).width() > 1200){
-    $('#about-us img').mouseenter(function(){
-      $('#about-us img').css('transform', 'scale(1.05)');
-      $('#about-us img').css('transition', 'all 0.5s'); 
-  });
-  $('#about-us img').mouseleave(function(){
-    $('#about-us img').css('transform', 'scale(1)');
-    $('#about-us img').css('transition', 'all 0.5s'); 
-});
-}
-else{
-  $('#about-us img').mouseenter(function(){
-    $('#about-us img').css('transition', 'none');
-  });
-}
   $('.testimonial-pic img').click(function () {
         $(this).addClass('active')   
         $(this).siblings().removeClass('active')       
@@ -217,7 +202,6 @@ else{
         $('#' + $(this).attr('data-alt')).addClass('active')
   });
   });
-  
   var swiper = new Swiper(".mySwiper", {
     slidesPerView: 4,
     spaceBetween: 0,
