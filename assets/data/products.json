@@ -263,21 +263,21 @@
       "price":"4000",
       "description": "Cela torta",
       "imgpath": "assets/images/rozen-torta.png",
-      "category":"slano , posno"
+      "category":"slatko , posno"
     },
     {
       "name":"Torta medeno srce",
       "price":"4000",
       "description": "Cela torta",
       "imgpath": "assets/images/medeno-srce.png",
-      "category":"slano , posno"
+      "category":"slatko , posno"
     },
     {
       "name":"Čokoladna torta",
       "price":"4000",
       "description": "Cela torta",
       "imgpath": "assets/images/coko-torta.png",
-      "category":"slano , posno"
+      "category":"slatko , posno"
     },
     {
       "name":"Oblanda - posna",
@@ -298,7 +298,7 @@
       "price":"800",
       "description": "1kg",
       "imgpath": "assets/images/zito.png",
-      "category":"slano , posno"
+      "category":"posno"
     },
     {
       "name":"Zalivena pita sa sojom",
