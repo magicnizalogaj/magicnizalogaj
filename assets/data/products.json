@@ -306,5 +306,26 @@
       "description": "1kg",
       "imgpath": "assets/images/zalivena-pita-soja.png",
       "category":"slano , posno"
+    },
+    {
+      "name":"Rozen kocke - mak, orasi, keks",
+      "price":"1500",
+      "description": "1kg",
+      "imgpath": "assets/images/nopic.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Slani krekeri sa semenkama",
+      "price":"700",
+      "description": "1kg",
+      "imgpath": "assets/images/nopic.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Rolat sa sojom",
+      "price":"900",
+      "description": "Ceo rolat",
+      "imgpath": "assets/images/nopic.png",
+      "category":"slano , posno"
     }
   ]
